@@ -74,12 +74,4 @@ tag: 1
 Seclet icon which you like in<code>\TKL\source\css\iconList.css</code>  
 ![](http://kieran-hexo.qiniudn.com/hexo_14_1.png)  
 ![](http://kieran-hexo.qiniudn.com/hexo_14_2.png)
-###Screen
-Show
-![](http://kieran-hexo.qiniudn.com/hexo_14_3.png)
-  
-Content
-![](http://kieran-hexo.qiniudn.com/hexo_14_4.png)
-###Others
-If you like this theme, [Fork](https://github.com/SuperKieran/TKL/fork) && Star.
-Come on.
+
