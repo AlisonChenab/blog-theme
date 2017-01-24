@@ -864,6 +864,9 @@ span.sb-caret { /* Caret Down */
 	font-size: 18px;
 	display: inline-block;
 }
+.max-heightblock{
+	max-height: 240px;
+}
 @media (max-width:1024px) {
 	#hero {
 		position: relative;

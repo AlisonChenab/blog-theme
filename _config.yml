@@ -2,15 +2,15 @@
 cover: /img/bg_img.jpg
 logo: /img/logo.png
 top_saying:
-- title: Chen Aibing
-- content: since 2014.12
-bottom_saying: Thank You for Watching.
+- title:
+- content:
+bottom_saying: Thank You for Following.
 # Content
 excerpt_link: Read More
 
 # rss: /atom.xml
 
-highlightjs: vs
+highlightjs: arta
 
 #duoshuo name
 duoshuo:
@@ -28,16 +28,20 @@ github: https://github.com/AlisonChenab
 # google: https://google.com/
 # weibo: http://weibo.com/
 
-#about  timeline
+#About timeline
 timeline:
 - num: 1
-  word: 2014/06/12-Start
+  date: 2014/06/12
+  content: Start
 - num: 2
-  word: 2014/11/29-XXX
+  date: 2014/06/12
+  content: Start
 - num: 3
-  word: 2015/02/18-DDD
+  date: 2014/06/12
+  content: Start
 - num: 4
-  word: More
+  date: 2014/06/12
+  content: Start
 
 #Works
 # works:
