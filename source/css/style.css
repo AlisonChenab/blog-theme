@@ -941,7 +941,7 @@ span.sb-caret { /* Caret Down */
 		background-attachment: scroll !important
 	}
 	.index-heightblock {
-		/*display: none*/
+		display: none
 	}
 }
 @media (max-width:767px) {
