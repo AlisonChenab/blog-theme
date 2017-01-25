@@ -865,17 +865,20 @@ span.sb-caret { /* Caret Down */
 	display: inline-block;
 }
 .max-heightblock{
-	max-height: 240px;
+	max-height: 60px;
 }
 @media (max-width:1024px) {
 	#hero {
-		position: relative;
+		/*position: relative;*/
 	}
 	#hero .element-img {
 		background-attachment: scroll !important
 	}
 	.heightblock {
-		display: none
+		/*display: none*/
+	}
+	section{
+		padding-top: 10px;
 	}
 }
 @media (max-width:767px) {
@@ -939,7 +942,7 @@ span.sb-caret { /* Caret Down */
 		background-attachment: scroll !important
 	}
 	.heightblock {
-		display: none
+		/*display: none*/
 	}
 }
 @media (max-width:767px) {
