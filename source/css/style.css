@@ -871,7 +871,7 @@ span.sb-caret { /* Caret Down */
 	#hero.index-hero {
 		position: relative;
 	}
-	#hero .element-img {
+	#hero.index-hero .element-img {
 		background-attachment: scroll !important
 	}
 	.heightblock {
