@@ -868,8 +868,8 @@ span.sb-caret { /* Caret Down */
 	max-height: 60px;
 }
 @media (max-width:1024px) {
-	#hero {
-		/*position: relative;*/
+	#hero.index-hero {
+		position: relative;
 	}
 	#hero .element-img {
 		background-attachment: scroll !important
@@ -921,8 +921,7 @@ span.sb-caret { /* Caret Down */
 
 #videohero h2,
 #fallback h2 {
-	color: #151515;
-	margin-bottom: 20px;
+#hr	margin-bottom: 20px;
 	display: inline-block;
 	padding: 14px;
 }
