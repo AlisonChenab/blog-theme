@@ -874,8 +874,8 @@ span.sb-caret { /* Caret Down */
 	#hero.index-hero .element-img {
 		background-attachment: scroll !important
 	}
-	.heightblock {
-		/*display: none*/
+	.index-heightblock {
+		display: none
 	}
 	section{
 		padding-top: 10px;
@@ -940,7 +940,7 @@ span.sb-caret { /* Caret Down */
 	#videohero .element-img {
 		background-attachment: scroll !important
 	}
-	.heightblock {
+	.index-heightblock {
 		/*display: none*/
 	}
 }
